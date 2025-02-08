@@ -1,5 +1,4 @@
 # Library-Management-System
-# Advanced Library Management System
 
 This is a comprehensive library management system developed in Java.  It includes user authentication, role management,  and a range of features for managing books and user accounts.
 
